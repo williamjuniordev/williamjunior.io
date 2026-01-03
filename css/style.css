@@ -9,18 +9,6 @@ body {
   background: #f9fafb;
 }
 
-a {
-  text-decoration: none;
-}
-
-.menu-topo nav ul {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  align-items: center;
-  justify-content: space-around;
-}
-
-nav ul li {
-  list-style: none;
+.centro {
+  text-align: center;
 }
